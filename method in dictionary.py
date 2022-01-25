@@ -1,0 +1,63 @@
+#clear
+a={"name":"shriney",
+   "place":"krisnagiri",
+   "mom":"rosy"}
+x=a.clear()
+print(x)
+#copy
+a={"name":"shriney",
+   "place":"krisnagiri",
+   "mom":"rosy"}
+x=a.copy()
+print(x)
+# fromkeys
+a=("tem:","app:","lock:")
+b="good"
+x=dict.fromkeys(a,b)
+print(x)
+#get
+a={"name":"shriney",
+   "place":"krisnagiri",
+   "mom":"rosy"}
+x=a.get("mom")
+print(x)
+#keys
+a={"name":"shriney",
+   "place":"krisnagiri",
+   "mom":"rosy"
+   }
+x=a.keys()
+#pop
+a={"name":"shriney",
+   "place":"krisnagiri",
+   "mom":"rosy"
+   }
+a.pop("place")
+print(a)
+#popitem
+a={"name":"shriney",
+   "place":"krisnagiri",
+   "mom":"rosy"}
+a.popitem()
+print(a)
+#setdefault
+a={"name":"shriney",
+   "place":"krisnagiri",
+   "mom":"rosy"}
+x=a.setdefault("mom")
+print(x)
+#update
+a={"name":"shriney",
+   "place":"krisnagiri",
+   "mom":"rosy"}
+a.update({"bro":"poul"})
+print(a)
+#values
+a={"name":"shriney",
+   "place":"123",
+   "mom":"rosy"}
+x=a.values()
+print(x)
+
+
+

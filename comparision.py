@@ -1,0 +1,96 @@
+#set1
+a=7
+b=6
+if(a>b):
+    print("true")
+else:
+    print("false")
+if(a<b):
+    print("true")
+else:
+    print("false")
+if(a<=b):
+    print("true")
+else:
+    print("false")
+if(a>=b):
+    print("true")
+else:
+    print("false")
+if(a==b):
+    print("true")
+else:
+    print("false")
+
+#set 2
+a=4
+b=5
+if(a>b):
+    print("true")
+else:
+    print("false")
+if(a<b):
+    print("true")
+else:
+    print("false")
+if(a<=b):
+    print("true")
+else:
+    print("false")
+if(a>=b):
+    print("true")
+else:
+    print("false")
+if(a==b):
+    print("true")
+else:
+    print("false")
+#set 3
+a=9
+b=2
+if(a>b):
+    print("true")
+else:
+    print("false")
+if(a<b):
+    print("true")
+else:
+    print("false")
+if(a<=b):
+    print("true")
+else:
+    print("false")
+if(a>=b):
+    print("true")
+else:
+    print("false")
+if(a==b):
+    print("true")
+else:
+    print("false")
+#set4
+a=6
+b=9
+if(a>b):
+    print("true")
+else:
+    print("false")
+if(a<b):
+    print("true")
+else:
+    print("false")
+if(a<=b):
+    print("true")
+else:
+    print("false")
+if(a>=b):
+    print("true")
+else:
+    print("false")
+if(a==b):
+    print("true")
+else:
+    print("false")
+
+    
+    
